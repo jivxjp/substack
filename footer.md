@@ -1,1 +1,1 @@
-This post has been edited by ChatGPT. In the spirit of keeping everything transparent you can view the original draft in this [GitHub repo](https://github.com/jivxjp/substack). It also includes the prompt used to do the editing.
+This post has been edited by ChatGPT. In the spirit of keeping everything transparent you can view the original draft in this [GitHub repo](https://github.com/jivxjp/substack). It also includes the prompts used to do the editing.

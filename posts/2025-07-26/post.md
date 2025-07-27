@@ -71,11 +71,11 @@ I was jet-lagged, coughing, and spiritually fuzzy. But by the time I arrived, I 
 On day one, I prayed: God, show me a sign if I should move to Japan.
 
 Three came immediately:
-	1.	That morning, I randomly opened a newsletter I hadn’t read in weeks. It mentioned Japan—for the first time ever.
+	1.	That morning, I randomly opened a newsletter I hadn’t read for a day. It mentioned Japan—for the first time ever.
 	2.	At breakfast, the table behind me was discussing something Japanese.
 	3.	At the morning talk, the choir sang “Walk Like a Man.” The lyric “Go on alone…” hit me like a tuning fork. I teared up. It felt like Japan was that path. A solo pilgrimage. A rite of becoming.
 
-After the talk, I bumped into a minister from Dallas who said, “Hey, I heard you were moving to Japan?” I was stunned. I hadn’t told anyone from there. Turns out someone misheard and spread that. Still… another sign?
+After the talk, I bumped into a minister from just came back from Dallas who said, “Hey, I heard you were moving to Japan?” I was stunned. I hadn’t told anyone from there. Turns out someone from Dallas had misunderstood I was visiting instead of moving to Japan. Still… another sign?
 
 The Business That Found Me
 

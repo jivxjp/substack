@@ -10,4 +10,8 @@ The draft is used to generate sutra-like quotes throughout the posts using the `
 
 The image generated for each post uses `image.md` prompt. The images are not saved here, only uploaded to Substack once.
 
+The lyrics is generated using the `lyrics.md` prompt while the song is generated using [suno](https://suno.com).
+
 Each post starts with [a scientific unicode](https://unicode-explorer.com/b/1D400).
+
+The video for the song is made by Final Cut Pro with [stereodrift](https://github.com/stereoDrift/stereoDrift.github.io) as the visualizer.

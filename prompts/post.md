@@ -25,7 +25,7 @@ Your goal:
 - Irresistible title and subhead that instantly grab attention
 - Engaging opening line that hooks curiosity
 - Clear, concise, and energetic writing throughout (zero tolerance for boredom) - feel free to add additional context that would support the piece
-- Strategic paragraph breaks and pacing to maintain flow - also add a few attention-grabbing sub-headers
+- Strategic paragraph breaks and pacing to maintain flow - also add a few attention-grabbing sub-headers without any emojis
 - Ending that delivers a satisfying payoff and encourages sharing
 
 Here is the Substack post for editing:
